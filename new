@@ -1,5 +1,6 @@
 ﻿anytls://8cf3f857-3e3f-476b-bd7a-4b5159570d21@jp1.niaot.com:41001?security=tls&sni=jpa..xn--9kq825q.top&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACAnyTLS-1%7C%E5%AE%9E%E9%AA%8C
 anytls://8cf3f857-3e3f-476b-bd7a-4b5159570d21@jp2.niaot.com:41001?security=tls&sni=jpb..xn--9kq825q.top&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACAnyTLS-2%7C%E5%AE%9E%E9%AA%8C
-hysteria2://8cf3f857-3e3f-476b-bd7a-4b5159570d21@85.208.9.189:44001?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0HY2-01%7C1.0X
-hysteria2://8cf3f857-3e3f-476b-bd7a-4b5159570d21@107.175.185.55:44001?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDHY2-08%7C1.0X
+hysteria2://8cf3f857-3e3f-476b-bd7a-4b5159570d21@107.175.185.55:44001?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDHY2-09%7C1.0X
 hysteria2://8cf3f857-3e3f-476b-bd7a-4b5159570d21@au.niaot.com:43001?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA%E6%82%89%E5%B0%BCHY2-1%7C1.0X
+hysteria2://8cf3f857-3e3f-476b-bd7a-4b5159570d21@[2a12:bec4:1821:168::a]:44001?sni=www.bing.com&insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0HY2-01%7C1.0X
+vless://8cf3f857-3e3f-476b-bd7a-4b5159570d21@brc.niaot.com:44000?encryption=none&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=ezDS_A3Lxqx2scOBcUXhNKiHjBOcBjZ7Nxp8XfCL4XM&sid=0b6a4ae1&type=grpc#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF-VLESS-01%7C1.0x
